@@ -1,0 +1,14 @@
+C:\Dev\AnalisadorDeString\bin\Debug\net8.0\AnalisadorDeString.exe
+C:\Dev\AnalisadorDeString\bin\Debug\net8.0\AnalisadorDeString.deps.json
+C:\Dev\AnalisadorDeString\bin\Debug\net8.0\AnalisadorDeString.runtimeconfig.json
+C:\Dev\AnalisadorDeString\bin\Debug\net8.0\AnalisadorDeString.dll
+C:\Dev\AnalisadorDeString\bin\Debug\net8.0\AnalisadorDeString.pdb
+C:\Dev\AnalisadorDeString\obj\Debug\net8.0\AnalisadorDeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AnalisadorDeString\obj\Debug\net8.0\AnalisadorDeString.AssemblyInfoInputs.cache
+C:\Dev\AnalisadorDeString\obj\Debug\net8.0\AnalisadorDeString.AssemblyInfo.cs
+C:\Dev\AnalisadorDeString\obj\Debug\net8.0\AnalisadorDeString.csproj.CoreCompileInputs.cache
+C:\Dev\AnalisadorDeString\obj\Debug\net8.0\AnalisadorDeString.dll
+C:\Dev\AnalisadorDeString\obj\Debug\net8.0\refint\AnalisadorDeString.dll
+C:\Dev\AnalisadorDeString\obj\Debug\net8.0\AnalisadorDeString.pdb
+C:\Dev\AnalisadorDeString\obj\Debug\net8.0\AnalisadorDeString.genruntimeconfig.cache
+C:\Dev\AnalisadorDeString\obj\Debug\net8.0\ref\AnalisadorDeString.dll
